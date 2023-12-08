@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"A button that says \"Add\"","md5":"d1a30f1df8bad812d5fada03e8a719f7"}]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"A button that says \"Add\"","md5":"d1a30f1df8bad812d5fada03e8a719f7"},{"prompt":"below the button, add an empty list","md5":"ba68a050855d40c97c2ea08411d0846e"}]}
